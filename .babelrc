@@ -1,0 +1,10 @@
+{
+    "sourceType": "module",
+    "presets": [
+        "@babel/preset-react"
+    ],
+    "plugins": [
+        "@babel/plugin-syntax-jsx",
+        "@babel/plugin-transform-react-jsx",
+    ]
+}

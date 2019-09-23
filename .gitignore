@@ -1,0 +1,6 @@
+
+/lib_bower
+/coverage
+/reports
+/node_modules
+*.log
